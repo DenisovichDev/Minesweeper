@@ -1,2 +1,2 @@
 # Minesweeper
-Classic Minesweeper made in processing.py
+Minesweeper with processing.py as a contribution to a Coding Challenge
