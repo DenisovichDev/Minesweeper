@@ -2,12 +2,12 @@ from cell import *
 import random
 
 l = 40
-mineNum = 15
+mineNum = 30
 grid = []
 rows, cols = 0, 0
 def setup():
     global grid, rows, cols, l, mineNum
-    size(401, 401)
+    size(601, 601)
     cols = int(height / l)
     rows = int(width / l)
     for i in range(rows):
